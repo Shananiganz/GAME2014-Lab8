@@ -136,6 +136,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 2121470205}
     m_Modifications:
+    - target: {fileID: -5257110654441946381, guid: e349b6c7b02435441974190b8f5db2a9, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 4173914852635519967, guid: e349b6c7b02435441974190b8f5db2a9, type: 3}
       propertyPath: m_Name
       value: MovingPlatform
